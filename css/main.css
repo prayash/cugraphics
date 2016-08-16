@@ -347,6 +347,8 @@ img::-moz-selection {
   background: transparent;
 }
 body {
+  overflow-y: hidden;
+  overflow-x: hidden;
   webkit-tap-highlight-color: #222222;
 }
 #header {
