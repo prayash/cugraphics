@@ -2,11 +2,11 @@
   "name": "cugraphics",
   "title": "cugraphics",
   "version": "1.1.1",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
+  "homepage": "http://cugraphics.io",
   "author": "Prayash Thapa & José Cañizares",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/prayashthapa/cugraphics/"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -14,7 +14,6 @@
     "font-awesome": "^4.6.3",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
     "gulp-less": "^3.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.4",
@@ -24,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://github.com/prayashthapa/cugraphics/"
   }
 }
