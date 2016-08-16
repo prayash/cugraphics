@@ -1,6 +1,6 @@
 /*!
- * Start Bootstrap - Creative v1.1.1 (http://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2016 Start Bootstrap
+ * Start Bootstrap - cugraphics v1.1.1 (http://startbootstrap.com/template-overviews/creative)
+ * Copyright 2013-2016 Prayash Thapa & José Cañizares
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body,
@@ -410,6 +410,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
-header {
+#header {
   min-height: 100%;
+  background: #2f2f2f;
 }
