@@ -1,6 +1,7 @@
 {
   "name": "cugraphics",
   "title": "cugraphics",
+  "description": "Official website for Computer Graphics Club at CU Boulder.",
   "version": "1.1.1",
   "homepage": "http://cugraphics.io",
   "author": "Prayash Thapa & José Cañizares",
